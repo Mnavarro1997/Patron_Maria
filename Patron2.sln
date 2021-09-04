@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patron2", "Patron2\Patron2.csproj", "{7D81102D-4BBA-4810-A651-9009AF254EF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patron_Builder", "Patron2\Patron_Builder.csproj", "{7D81102D-4BBA-4810-A651-9009AF254EF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

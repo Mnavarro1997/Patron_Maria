@@ -9,11 +9,11 @@ namespace Patron2
 			while (true)
 			{
 				Console.WriteLine(@"
-					To run tests write:
-					testAll
-					test1
-					test2
-					test3
+	To run tests write:
+	testAll
+	test1
+	test2
+	test3
 					");
 				var instrucction = Console.ReadLine();
 				if (instrucction == "testAll")
